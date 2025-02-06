@@ -1,0 +1,6 @@
+Name,Age,City
+# This is a comment line
+# Another comment
+Hemangi,20,Gandhinagar
+Adrien,15,Paris
+Marinette,14,Paris

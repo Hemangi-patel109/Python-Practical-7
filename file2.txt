@@ -1,0 +1,4 @@
+First number: 10
+Second number: 20 
+Addition: 10+20=30 
+Multipication: 10*20=200
